@@ -7,14 +7,14 @@ Our client W. Avy likes the work we have done for him so far. The information ha
 ## results
 * Looking at the results we can see that 
   * For June:
-    * count	191.000000
-    * mean	77.219895
-    * std	2.622538
-    * min	71.000000
-    * 25%	75.000000
-    * 50%	77.000000
-    * 75%	79.000000
-    * max	83.000000
+    * count	1700.000000
+    * mean	74.944118
+    * std	3.257417
+    * min	64.000000
+    * 25%	73.000000
+    * 50%	75.000000
+    * 75%	77.000000
+    * max	85.000000
   * For December:
     * count	1517.000000
     * mean	71.041529
